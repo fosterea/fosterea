@@ -1,4 +1,6 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+
+Feel free to take a look at my github pages personal website: [https://fosterea.github.io/](https://fosterea.github.io/)
 
 <!--
 **fosterea/fosterea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
